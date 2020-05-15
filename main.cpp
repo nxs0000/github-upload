@@ -12,3 +12,17 @@ int main(int argc, char* argv[])
 		cout << argv[i] << endl;
 	}
 }
+
+
+
+/*
+
+create a new branch
+- git checkout -b <name>
+push and create the branch remotly
+- git push -u origin <name>
+
+
+
+
+*/
